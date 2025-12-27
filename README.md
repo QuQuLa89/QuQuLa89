@@ -1,6 +1,6 @@
 # 名前 / プロフィール
 
-**名前**: QuQuLa89/キュキュラ
+**名前**: QuQuLa89 / キュキュラ
 
 **肩書き**: 人間
 
@@ -12,8 +12,9 @@
 
 ## 自己紹介
 
-主な使用言語: Python
-今後使用したい言語: JavaScript/AiScript/Kotlin
+**主な使用言語**: Python
+
+**今後使用したい言語**: JavaScript / AiScript / Kotlin
 
 ---
 
@@ -25,7 +26,7 @@
 
 ## 目標 / 今後やりたいこと
 
-MinecraftのMOD作成/misskeyのPlayテンプレート
+MinecraftのMOD作成 / misskeyのPlayテンプレート
 
 ---
 
