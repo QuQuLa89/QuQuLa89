@@ -14,7 +14,7 @@
 
 **主な使用言語**: Python
 
-**今後使用したい言語**: JavaScript / AiScript / Kotlin
+**今後使用したい言語**: Java / AiScript
 
 ---
 
@@ -26,7 +26,7 @@
 
 ## 目標 / 今後やりたいこと
 
-MinecraftのMOD作成 / misskeyのPlayテンプレート
+TypeScriptを用いたソフト / misskeyのPlayテンプレート
 
 ---
 
@@ -38,7 +38,7 @@ MinecraftのMOD作成 / misskeyのPlayテンプレート
 
 ## 更新履歴
 
-- 最終更新: 2025-12-27
+- 最終更新: 2026-07-12
 
 ---
 
