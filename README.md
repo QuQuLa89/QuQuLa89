@@ -12,7 +12,9 @@
 
 ## My Website
 
-[こちら](https://ququla89.github.io/)
+[My Portfolio](https://ququla89.github.io/)
+
+[My Knowledge Site](https://ququla89.github.io/obsidian-knowledge-site/)
 
 ---
 
