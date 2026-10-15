@@ -8,45 +8,37 @@
 
 **ひとこと**: 作りたいものを作り続ける
 
----
-
-## My Website
+## My Websites
 
 [My Portfolio](https://ququla89.github.io/)
 
-[My Knowledge Site](https://ququla89.github.io/obsidian-knowledge-site/)
+[Zenn](https://zenn.dev/ququla89)
 
----
+[Qiita](https://qiita.com/QuQuLa89)
 
-## 自己紹介
+## 使用言語
 
-**主な使用言語**: Python
+**主な使用言語**: Python / Kotlin
 
 **今後使用したい言語**: Java / AiScript
 
----
+# QuQuLa89について
 
-## このリポジトリについて
+プログラミングが大好きで試行錯誤しながら色々やってる人間です。
+人間なので失敗したり勘違いしたり、無駄なことをやったりします。
+2026年10月12日から技術記事を自力で書くことに挑戦し始めました。
+詳細は[こちら](https://zenn.dev/ququla89/articles/a-human-tries-to-write-an-article)。
 
-██████
-
----
+主にMinecraft Pluginsを作成しています。
 
 ## 目標 / 今後やりたいこと
 
 TypeScriptを用いたソフト / misskeyのPlayテンプレート
 
----
-
 ## 連絡先
 
 近いうちに公開予定
 
----
-
 ## 更新履歴
 
-- 最終更新: 2026-07-12
-
----
-
+- 最終更新: 2026-10-16
