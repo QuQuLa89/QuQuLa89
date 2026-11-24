@@ -36,7 +36,7 @@
 
 ## 目標 / 今後やりたいこと
 
-TypeScriptを用いたソフト / misskeyのPlayテンプレート
+Minecraft Pluginsの更なる作成 / misskeyのPlayテンプレート
 
 ## Connect with Me
 
